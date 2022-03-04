@@ -1,1 +1,1 @@
-#Django Study
+# Django Study
